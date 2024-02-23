@@ -1,4 +1,4 @@
-#	Spreadsheet mail merge project for SOAR
+#	Spreadsheet mail merge project
 
 ##	Use
 
