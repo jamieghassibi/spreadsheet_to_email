@@ -1,0 +1,38 @@
+Dear Professor {Faculty Last Name},
+
+Use curly brackets to insert fields from the spreadsheet.
+You can put sentences in a paragraph on separate lines.
+Markdown will understand them as belonging in one continuous paragraph.
+
+Paragraphs are separated by a blank line.
+Paragraphs are separated by a blank line.
+Paragraphs are separated by a blank line.
+
+Here is a table:
+
+Label 1 | Label 2
+-|-
+Item | Item
+Item | Item
+Item | Item
+
+---
+
+And this is the inserted table from the test CSV file.
+
+{table}
+
+- Bulleted list.
+- Bulleted list.
+- Bulleted list.
+
+1. Numbered list. (You can just use the number 1. It'll increment the numbers for you.)
+1. Numbered list.
+1. Numbered list.
+
+**Bold Name**<br>
+*Italicized Position Title*<br>
+Address<br>
+Address<br>
+Address<br>
+Pronouns: They, Their, Them
